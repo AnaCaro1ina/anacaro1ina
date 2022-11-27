@@ -14,7 +14,7 @@ as minhas habilidades em programação 🧠
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="right"  src="https://i.picasion.com/pic92/b9a4ee1600f209ef16ee7083f59acf68.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br>
   
 </div>
   
