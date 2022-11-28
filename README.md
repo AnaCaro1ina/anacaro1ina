@@ -1,5 +1,4 @@
 ### Olá! Eu sou a Ana Caro1ina 👋
-
 Tenho como principal objetivo, adquirir o máximo de conhecimento e evoluir 
 as minhas habilidades em programação 🧠
 <div align="center">
