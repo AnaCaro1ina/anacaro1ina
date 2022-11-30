@@ -1,6 +1,4 @@
 ### Olá! Eu sou a Ana Caro1ina 👋
-Tenho como principal objetivo, adquirir o máximo de conhecimento e evoluir as minhas habilidades em programação 🧠
-
 <div align="center">
   <a href="https://github.com/AnaCaro1ina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacaro1ina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
