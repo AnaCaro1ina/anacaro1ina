@@ -4,8 +4,6 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacaro1ina&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
   <br>
-  
-  
  
   <div  align="center"> 
   <div style="display: inline_block"><br>
