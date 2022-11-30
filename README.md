@@ -3,8 +3,8 @@ Tenho como principal objetivo, adquirir o máximo de conhecimento e evoluir as m
 
 <div align="center">
   <a href="https://github.com/AnaCaro1ina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacaro1ina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacaro1ina&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacaro1inashow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacaro1inalayout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
   ![](https://komarev.com/ghpvc/?username=anacaro1ina&color=red&style=for-the-badge&label=Visitor+count)
