@@ -5,7 +5,7 @@
 </div>
   <br>
   
-  ![](https://komarev.com/ghpvc/?username=anacaro1ina&color=red&style=for-the-badge&label=Visitor+count)
+  
  
   <div  align="center"> 
   <div style="display: inline_block"><br>
